@@ -1,0 +1,72 @@
+[
+  {
+    "NomeDaObra": "DanMachi",
+    "Volumes": [
+      {
+        "Volume": "Volume 1",
+        "CaminhoRelativo": "./src/assets/PDFs/danmachi/Volume 1.pdf"
+      },
+      {
+        "Volume": "Volume 2",
+        "CaminhoRelativo": "./src/assets/PDFs/danmachi/Volume 2.pdf"
+      }
+    ]
+  },
+  {
+    "NomeDaObra": "Slime",
+    "Volumes": [
+      {
+        "Volume": "Volume 1",
+        "CaminhoRelativo": "./src/assets/PDFs/slime/Volume 1.pdf"
+      },
+      {
+        "Volume": "Volume 2",
+        "CaminhoRelativo": "./src/assets/PDFs/slime/Volume 2.pdf"
+      },
+      {
+        "Volume": "Volume 3",
+        "CaminhoRelativo": "./src/assets/PDFs/slime/Volume 3.pdf"
+      },
+      {
+        "Volume": "Volume 4",
+        "CaminhoRelativo": "./src/assets/PDFs/slime/Volume 4.pdf"
+      },
+      {
+        "Volume": "Volume 5",
+        "CaminhoRelativo": "./src/assets/PDFs/slime/Volume 5.pdf"
+      },
+      {
+        "Volume": "Volume 6",
+        "CaminhoRelativo": "./src/assets/PDFs/slime/Volume 6.pdf"
+      },
+      {
+        "Volume": "Volume 7",
+        "CaminhoRelativo": "./src/assets/PDFs/slime/Volume 7.pdf"
+      },
+      {
+        "Volume": "Volume 8",
+        "CaminhoRelativo": "./src/assets/PDFs/slime/Volume 8.pdf"
+      },
+      {
+        "Volume": "Volume 9",
+        "CaminhoRelativo": "./src/assets/PDFs/slime/Volume 9.pdf"
+      },
+      {
+        "Volume": "Volume 10",
+        "CaminhoRelativo": "./src/assets/PDFs/slime/Volume 10.pdf"
+      },
+      {
+        "Volume": "Volume 11",
+        "CaminhoRelativo": "./src/assets/PDFs/slime/Volume 11.pdf"
+      },
+      {
+        "Volume": "Volume 12",
+        "CaminhoRelativo": "./src/assets/PDFs/slime/Volume 12.pdf"
+      },
+      {
+        "Volume": "Volume 13",
+        "CaminhoRelativo": "./src/assets/PDFs/slime/Volume 13.pdf"
+      }
+    ]
+  }
+]
