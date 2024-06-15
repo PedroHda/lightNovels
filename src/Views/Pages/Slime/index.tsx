@@ -378,7 +378,7 @@ function Slime() {
                   />
                 </Link>
               </div>
-              <div className="descriptionConten">
+              <div className="descriptionConten"> 
                 <p>
                   Após a conclusão da guerra, Rimuru começa a reconstruir
                   Tempest e fortalecer suas alianças. Ele enfrenta novos
